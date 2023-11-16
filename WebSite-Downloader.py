@@ -417,5 +417,5 @@ class Spider(threading.Thread):
 
 
 if __name__ == '__main__':
-	manager = Manager('http://www.whsw.net/')
+	manager = Manager('http://www.pornhub.com/')
 	manager.start()
